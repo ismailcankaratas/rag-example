@@ -230,22 +230,6 @@ model: "your-preferred-model";
 4. Push yapın (`git push origin feature/amazing-feature`)
 5. Pull Request açın
 
-## 📝 Lisans
-
-Bu proje [ISC License](LICENSE) altında lisanslanmıştır.
-
-## 📞 İletişim
-
-- **Proje Sahibi**: [Your Name]
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **E-posta**: your.email@example.com
-
-## 🙏 Teşekkürler
-
-- [Xenova](https://github.com/xenova) - Ücretsiz embedding modelleri
-- [Qdrant](https://qdrant.tech/) - Vektör veritabanı
-- [Hugging Face](https://huggingface.co/) - AI model hosting
-
 ## 📚 Öğrenme Kaynakları
 
 - [RAG Teknolojisi Nedir?](https://www.pinecone.io/learn/retrieval-augmented-generation/)
@@ -255,9 +239,3 @@ Bu proje [ISC License](LICENSE) altında lisanslanmıştır.
 ---
 
 ⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!
-
-## 🔄 Güncellemeler
-
-- **v1.0.0**: İlk sürüm - Temel RAG sistemi
-- **v1.1.0**: Ücretsiz embedding modeli eklendi
-- **v1.2.0**: Türkçe örnek veriler eklendi
